@@ -412,6 +412,11 @@ Anikait Singh, Teresa Zhang, Yoonho Lee, Roshen Sanjay Nair, Aviral Kumar, Chels
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2610.22273) | 🛠️ [code](https://github.com/teresaz05/librarian-agents)
 
+- *Let Agents Design How They Search: Automatic Interface Optimization for Agentic Search (SearchWeaver)*  
+Sangjune An, Jaeyoon Jung, Yumin Choi, Jinheon Baek, Junmo Cho, Sung Ju Hwang, Hae Beom Lee  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.29250)
+
 ### Retrieval Analysis & Evaluation
 
 Studies characterizing agentic query workloads, comparing retrieval interfaces, and evaluating retrieval quality in deep research settings.
@@ -500,6 +505,11 @@ arXiv, 2026
 Owen Walters, Lihu Chen, Francesca Toni  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2610.21731) | 🛠️ [code](https://github.com/ojwwalters/retrieved-but-not-read)
+
+- *Benchmarking and Error Analysis of Deep Search and Deep Research LLM Agents*  
+Zixuan Yu, Zhenheng Tang, Xiaowen Chu, Bo Han  
+ICML Workshop, 2026  
+📄 [paper](https://arxiv.org/abs/2610.29346)
 
 ## The Agentic Search Loop
 
@@ -592,6 +602,11 @@ EMNLP Findings, 2026
 Radin Hamidi Rad, Amin Bigdeli, Negar Arabzadeh, Sajad Ebrahimi, Charles L. A. Clarke, Benjamin C. M. Fung, Ebrahim Bagheri  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2609.14412) | 🛠️ [code](https://github.com/radinhamidi/Question-s-Gambit)
+
+- *MAPS: Macro-Adaptive Parallel Reasoning for Regulating Search Momentum in Retrieval-Augmented Generation*  
+Xinze Li, Dingwen Zhang, Zhenghao Liu, Yukun Yan, Shuo Wang, Yu Gu, Ge Yu, Maosong Sun  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.29792) | 🛠️ [code](https://github.com/NEUIR/MAPS)
 
 ### Adaptive Retrieval Control
 
@@ -871,6 +886,11 @@ arXiv, 2026
 Wenyu Huang, Xinyu Hou, Pavlos Vougiouklis, Ruofei Lai, Jeff Z. Pan  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2610.10179)
+
+- *Self-Assessment Reinforcement Learning for Search-State Awareness in Retrieval-Augmented Large Language Models (SARL)*  
+Taewhoo Lee, Minju Song, Jungwoo Park, Chanwoong Yoon, Junha Jung, Hyeon Hwang, Sanghoon Lee, Minbyul Jeong, Jaewoo Kang  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.30435)
 
 ### Data Synthesis
 
