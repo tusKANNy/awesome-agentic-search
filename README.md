@@ -229,6 +229,11 @@ Kailin Jiang, Lei Liu, Jian Xi, Yangqi Chen, Hui Xu, Hongwei Zhao, Bin Li, Yu Lu
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2609.32472) | 🛠️ [code](https://github.com/AdaTutoRank/AdaTutoRank)
 
+- *ACARE: Agent-Context-Aware Reranker for Iterative Search*  
+Sahel Sharifymoghaddam, Yauhen Babakhin, Reza Esfandiarpoor, Oliver Holworthy, Jimmy Lin, Bo Liu  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.35840)
+
 ### Structured & Hierarchical Retrieval
 
 Reorganizing the corpus itself into structures (graphs, hierarchies, wikis) that agents can traverse, rather than a flat similarity index.
@@ -302,6 +307,11 @@ arXiv, 2026
 Meghanadh Pulivarthi, Swaraj Kumar Biswal, Kushagra Bhushan, Yatin Nandwani, Sachindra Joshi, Dinesh Raghu  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2610.11370)
+
+- *Retriever-Free Retrieval: Navigating Documents with Decision Models (DecisionRAG)*  
+Chao Wan, Paul Jünger, Beixi Du, Bodong Liu, Navaneetha Krishnan, Kilian Q. Weinberger  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.35868)
 
 ### Direct Corpus Interaction
 
