@@ -313,6 +313,11 @@ Chao Wan, Paul Jünger, Beixi Du, Bodong Liu, Navaneetha Krishnan, Kilian Q. Wei
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2610.35868)
 
+- *When Connectivity Misleads: Guiding Agentic Search with Contrastive Evidence Paths (SCI)*  
+Junchen Li, Liang Xu, Rongzheng Wang, Qizhi Chen, Junhao Wen, Shuang Liang  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.36134) | 🛠️ [code](https://github.com/KennyCaty/SCI-Agent)
+
 ### Direct Corpus Interaction
 
 The agent bypasses pre-computed indexes entirely, interacting with the raw corpus via terminal-style tools (grep, file reads, shell commands).
