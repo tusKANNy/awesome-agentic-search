@@ -180,6 +180,11 @@ Olga Tsymboi, Ramil Latypov, Aleksandr Medvedev, Danil Taranets, Dmitrii Stoiano
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2610.06782) | 🛠️ [code](https://github.com/turbo-llm/t-search-harness)
 
+- *Retrieving from Your Own Mistakes: On-Policy Training of Embedding Models for Multi-Hop Retrieval-Augmented Generation*  
+Chenjie Qiu, Zixuan Zeng, Shaobin Shi, Bingfeng Chen, Dongsheng Luo, Boyan Xu  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.40409) | 🛠️ [code](https://github.com/yausankit/on-policy-state-training)
+
 ### Reranking
 
 Reranking components made reasoning-aware or reorganized around agentic search, rather than a fixed sequential pass.
@@ -906,6 +911,11 @@ arXiv, 2026
 Taewhoo Lee, Minju Song, Jungwoo Park, Chanwoong Yoon, Junha Jung, Hyeon Hwang, Sanghoon Lee, Minbyul Jeong, Jaewoo Kang  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2610.30435)
+
+- *Learning to Program Retrievals: Composing Search Primitives via Reinforcement Learning (RPL)*  
+Kyuyoung Kim, Zilin Xiao, Zhiyuan Wang, Avinash Atreya, Ke Yang, Jinwoo Shin, Kecheng Hao  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.24854)
 
 ### Data Synthesis
 
