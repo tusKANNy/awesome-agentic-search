@@ -531,6 +531,16 @@ Zixuan Yu, Zhenheng Tang, Xiaowen Chu, Bo Han
 ICML Workshop, 2026  
 📄 [paper](https://arxiv.org/abs/2610.29346)
 
+- *CORE: Coarse-to-Fine Search with Context Management for Deep Research*  
+Hoang Tran Vuong, Ngoc Quan Pham, Hung Bui, Fatih Porikli, Dat Quoc Nguyen  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2611.07859)
+
+- *RMIT-ADM+S at TREC RAG 2026: Research Agents, Retriever Ablations, and Open-Weight Replication*  
+Oleg Zendel, Kun Ran, Chenglong Ma, Nguyen Khoi Vo, Shuai Wang  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2611.16425)
+
 ## The Agentic Search Loop
 
 Core papers on the agent's search behavior: how it plans, queries, retrieves, and adapts across the full information-seeking loop. This section is provided for context — this list's focus is on the retrieval side of agentic search. For a more in-depth selection of papers on the agentic search loop itself, see [Awesome-Search-Agent-Papers](https://github.com/YunjiaXi/Awesome-Search-Agent-Papers#early-iterative-retrieval).
@@ -916,6 +926,16 @@ arXiv, 2026
 Kyuyoung Kim, Zilin Xiao, Zhiyuan Wang, Avinash Atreya, Ke Yang, Jinwoo Shin, Kecheng Hao  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2610.24854)
+
+- *Same Trajectory, Different Knowledge: Information-State-Aware On-Policy Distillation for Search Agents (ISA-Distill)*  
+Minhao Sun, Xian-Ling Mao, Eric Tao, Zi-Ao Ma, Zhijing Wu  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2611.01987)
+
+- *From Delegation to Coordination: Learning Efficient Multi-Agent Deep Research (LEAD-RL)*  
+Yuyang Wu, Yang Liu, Zequn Xie, Junjie Wang, Dan Yang, Zehao Tan, Ding-Chu Zhang, Junming Yang, Yue Shen, Jian Wang, Jinjie Gu  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2611.17041)
 
 ### Data Synthesis
 
