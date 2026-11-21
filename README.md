@@ -932,6 +932,11 @@ Minhao Sun, Xian-Ling Mao, Eric Tao, Zi-Ao Ma, Zhijing Wu
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2611.01987)
 
+- *MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation*<br>
+  Yuhan Sun, Jiaxin Zhao, Yongdong Luo, Yibo Hu, Meiguang Jin, Junfeng Ma, Weixun Wang, Weihang Pan, Zhongan Bi<br>
+  arXiv, 2026<br>
+  📄 [paper](https://arxiv.org/abs/2610.23234)
+
 - *From Delegation to Coordination: Learning Efficient Multi-Agent Deep Research (LEAD-RL)*  
 Yuyang Wu, Yang Liu, Zequn Xie, Junjie Wang, Dan Yang, Zehao Tan, Ding-Chu Zhang, Junming Yang, Yue Shen, Jian Wang, Jinjie Gu  
 arXiv, 2026  
