@@ -781,6 +781,11 @@ Songtao Huang, Zhijie Zhong, Xiaohan He, Shuaiyu Zhang, Zhiyin Yu, Li Kang, Heng
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2610.13075)
 
+- *Forget Freely, Grep Later: Lossless, Index-Free Memory for Long-Horizon LLM Agents (GrepMem)*  
+Ziyan Yang, Taiwei Shi, Jieyu Zhao  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2611.25123)
+
 ## Training & Optimization
 
 Methods for training agents to search effectively, through reinforcement learning or synthetic data generation. This section is provided for context — this list's focus is on the retrieval side of agentic search. For a more in-depth selection of RL-based agentic search training papers, see [Awesome-RL-based-Agentic-Search-Papers](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers).
